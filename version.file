@@ -1,0 +1,6 @@
+<1.0>
+-- Added Blacklisted Words
+-- Added LabelModes
+-- Added Webhook
+-- Added Descriptions
+-- Validated meta data (if metadata exists, item will not be available)

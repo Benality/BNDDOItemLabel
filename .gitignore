@@ -1,0 +1,4 @@
+/client
+/server
+functions.lua
+shared/config.lua
