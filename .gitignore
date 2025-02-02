@@ -2,3 +2,4 @@
 /server
 functions.lua
 shared/config.lua
+fxmanifest.lua
